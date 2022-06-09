@@ -57,7 +57,7 @@
   
 
  
-  ![Snake animation](https://github.com/GianManzo/GianManzo/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Mizerski/github-contribution-grid-snake.svg/blob/main/github-user-contribution.svg)
  
 </div>
   
