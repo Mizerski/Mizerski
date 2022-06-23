@@ -1,30 +1,40 @@
 <div align="center">
-  <h1> Hi dev, I'm Wesley Mizerski </h1> 
- <h3> Front-end developer</h3>
- <a href="https://imgur.com/zj9h8ec"><img src="https://i.imgur.com/zj9h8ec.png" title="source: imgur.com" /></a>
- </div>
-  <div align="start">
-    
-    - 🌎 I am currently in pursuit of my dream, entering the development area             
-    - 📚 I’m currently learning JAVASCRIPT | NODE.JS | REACT 
-    - 🚀 Ask me about future
-    - 📲 How to reach me: mizerskimachado@hotmail.com
-    - 💻 Never stop learnig
-    - 👔 I'm looking for opportunity
-  </div>
-</div>
-</ul>
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+  
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=true&username=mizerski" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&username=mizerski" height="150" alt="languages graph"  />
-</div>
+### <div align="center">Fala dev! Me chamo Wesley, sou Dev. Front-end em processo de migração ao Full🚀</div>  
+  
 
-<div align="right">
-  <a href="https://www.linkedin.com/in/mizerski/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
+- 🔭 Atualmente atuo como freelancer na Workana, Fiveer e Getninjas  
+  
+
+- 🌱 Estou atrás de melhorar minhas dev skills  
+  
+
+- ⚡ Curiosidade: Codo "Hello World" antes de qualquer projeto  
+  
+
+<br/>  
 
 
+## Tenho Conhecimento em:
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
+</div>  
 
